@@ -1,0 +1,19 @@
+{
+  "name": "gitlab-node-irc",
+  "description": "a node.js irc bot that announces gitlab commit messages.",
+  "version": "0.1.0",
+  "author": "shm <notyce@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+	  "gitlab",
+	  "irc",
+	  "bot"
+  ],
+  "dependencies": {
+    "irc": "0.3.6",
+    "nconf": "0.6.7"
+  }
+}
